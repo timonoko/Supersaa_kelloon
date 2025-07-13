@@ -8,11 +8,11 @@ Se myös näyttää vuoronperään joko Forecan tai Ilmailulaitoksen enustteen.
 
 HTTP-apissa Title: Sää, Method: GET, URL: http://0.0.0.0:9090, Icon: Sateenvarjo
 
-Lisäksi Exit on Succes: OFF ja Toast on Success: Yes
+Lisäksi Exit on Succes: OFF ja Toast on Success: ON
 
 Testaus Linuksissa:  curl 192.168.1.198:9090
 
-Tulos: F 17:40 23° Etelä 199° 1m/s Selkeää
+Tulos esimerkiksi: F 17:40 23° Etelä 199° 1m/s Selkeää
 
 
 
