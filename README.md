@@ -15,4 +15,4 @@ Testaus Linuksissa:  curl 192.168.1.198:9090
 Tulos esimerkiksi: F 17:40 23° Etelä 199° 1m/s Selkeää
 
 
-
+"saa1.py" on uusi versio, se hakee vain, jos kysytään.
