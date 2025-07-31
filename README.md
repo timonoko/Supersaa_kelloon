@@ -6,7 +6,7 @@ Tein tämmösen serverin Termuxiin, joka hakee Supersaa.fi:sta kamaa ja parsii s
 
 Se myös näyttää vuoronperään joko Forecan tai Ilmailulaitoksen ennusteen.
 
-HTTP-appissa: Title: Sää, Method: GET, URL: http://0.0.0.0:9094, Icon: Sateenvarjo
+HTTP-appissa: Title: Sää, Method: GET, URL: http://0.0.0.0:9093, Icon: Sateenvarjo
 
 Lisäksi Exit on Succes: OFF ja Toast on Success: ON
 
