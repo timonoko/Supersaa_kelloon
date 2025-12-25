@@ -11,3 +11,5 @@ HTTP-appissa: Title: Sää, Method: GET, URL: http://0.0.0.0:9093, Icon: Sateenv
 Lisäksi Exit on Succes: OFF ja Toast on Success: ON
 
 Tulos esimerkiksi: 23° Etelä 199° 1m/s Selkeää
+
+https://youtube.com/shorts/pERY6yGmfLw?si=vQXKzrooagOxmHIu
