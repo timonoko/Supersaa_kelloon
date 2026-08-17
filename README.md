@@ -1,3 +1,9 @@
+Uusi HTTP-äpin versio tuottaa JSON-stringin, siksi viesti on nyt {"message":"läpäti läpäti"}.
+Pitää laittaa "Parse JSON"-päälle ja "Success Key" = "message".
+
+------------------------------
+
+
 BIP5 kellon sää on paska, koska se on Accuweather, eikä ymmärrä paikallisia olosuhteita.
 
 Onneksi siellä on appi nimeltä HTTP, joka osaa tehdä WGET ja näyttää sen tekstin.
