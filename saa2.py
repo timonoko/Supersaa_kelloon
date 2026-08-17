@@ -27,11 +27,13 @@ def tulos(laitos):
     aa=str(j['temperature'])+"° "+\
               ilmansuunta(j['windDirection'])+" "+\
               str(j['windDirection'])+"° "+\
-              str(j['windSpeed'])+"m/s "+\
-              j['weatherSymbolText']+"\n"
+              str(j['windSpeed'])+"m/s "+"\n"+\
+              j['weatherSymbolText']+"\n"+\
+              laitos+"\n"
   except:
     aa=laitos+' ei toimi'
-  return(aa.encode("utf-8"))
+  aa = json.dumps({ "name": "sää", "message": aa , "error": "VIRHE" })
+  return( aa.encode("utf-8"))
 
 eka=1
 def indeksi():
